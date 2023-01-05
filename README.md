@@ -12,7 +12,7 @@ This is a library that has a few functions that I use regular for Apps Script De
 
 ## How do I install this Library in Apps Script?
 
-1. Copy this ID 
+1. Copy this ID `17eRGld-ZaCCT5D5AKU9FLcG9PUfX8BQfDyS76ZWHQiX2a6zLlhz8yXPW`
 2. Go to your [Apps Script File](https://script.google.com/home) or a [New Apps Script File](https://script.new)
 3. In the Editor Tab, you should see a left panel with a section called Libraries.
    
