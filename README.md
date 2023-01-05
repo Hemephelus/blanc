@@ -40,7 +40,7 @@ To use the functions in the library type.
 
 `blanc.filterByDate(array,col,startDate,endDate)`
 
-## To see how each function works, see our [Documentation](https://script.new).
+## To see how each function works, see our [Documentation](https://github.com/Hemephelus/blanc/blob/main/Documentation.md).
 
 
 
