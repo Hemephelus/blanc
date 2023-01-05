@@ -5,7 +5,7 @@ These are the function we have in this library, what they can do and why they ar
 1. [Remove Empty Rows](#remove-empty-rows)
 2. [Filter By Date](#filter-by-date)
 3. [Get Column](#get-column)
-4. [Filter By Value](#filter-by)
+4. [Filter By Value](#filter-by-value)
 
 Since I work with mostly google sheets, I end up using filter related functions. As you you can see. If you have any suggestions regarding the library reach out to me on [twitter](https://twitter.com/Hemephelus1).
 
