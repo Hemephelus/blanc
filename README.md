@@ -23,7 +23,7 @@ This is a library that has a few functions that I use regular for Apps Script De
 ![Pop UP Section](paste_scipt_ID.png)
 
 6. Paste this Script ID `17eRGld-ZaCCT5D5AKU9FLcG9PUfX8BQfDyS76ZWHQiX2a6zLlhz8yXPW` in the input section.
-7. Click on **Lookup** you should be able to see the versions that exsit in the project.
+7. Click on **Lookup** you should be able to see the versions that exist in the project.
    ![Lookup Result](lookup_result.png)
 
 8. Select the version with the highest number (Recommended).
