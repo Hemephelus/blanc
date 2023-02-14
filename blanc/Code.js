@@ -68,3 +68,13 @@ function getColumn(array, column){
 
 return array.map(x => x[column]);
 }
+
+/**
+ * Returns a random 16 bit string .
+ *
+ * @return {string} a random 16 bit string.
+ * @customfunction
+ */
+function generateId () {
+        return (Math.random() * 1000000 + Date.now()).toString(16).replace('.', '-')
+    }
