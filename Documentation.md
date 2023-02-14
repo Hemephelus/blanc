@@ -120,3 +120,19 @@ Filters a 2d array by the specified value, and returns the array of values that 
     Name: return
     Type: array of any
     Description: Returns the matching values in the array.
+
+## Generate Id
+
+`generateId()`
+
+
+Generates a near unique string Id with the 16 bits string values
+
+ ### Arguments
+none
+
+
+### Return Value
+    Name: return
+    Type: string
+    Description: Returns a random 16 bit string.
